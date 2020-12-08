@@ -9,7 +9,6 @@
 #include <stdlib.h>
 #include <math.h>
 #include <iostream>
-#include <windows.h>
 
 #include <GL/glut.h>
 
